@@ -18,5 +18,6 @@ Note
 
 2. Run -> Show error (CMake Error at CMakeLists.txt:43 (add_subdirectory):)
     <p>solution: Run "./gradlew prepareNativeLibrary" before building project</P>
+    <a href="[url](https://github.com/facebookincubator/spectrum/issues/27)">solution link</a>
  
 3. Run -> Working

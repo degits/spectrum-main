@@ -17,6 +17,6 @@ Note
 1. Download & Install NDK (21.0.75...)
 
 2. Run -> Show error (CMake Error at CMakeLists.txt:43 (add_subdirectory):)
-    solution: Run "./gradlew prepareNativeLibrary" before building project
+    <p>solution: Run "./gradlew prepareNativeLibrary" before building project</P>
  
 3. Run -> Working

@@ -18,5 +18,5 @@ Note
 
 2. Run -> Show error (CMake Error at CMakeLists.txt:43 (add_subdirectory):)
     solution: Run "./gradlew prepareNativeLibrary" before building project
-3. 
-4. Run -> Working
+ 
+3. Run -> Working

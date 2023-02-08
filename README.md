@@ -12,6 +12,8 @@
   </a>
 </p>
 
+<h1>Using Facebook image compression Library (Spectrum) with a flutter app</h1>
+
 Note 
 
 1. Download & Install NDK (21.0.75...)
